@@ -1,6 +1,6 @@
-#Sentiment Analysis for Amazon Reviews
+# Sentiment Analysis for Amazon Reviews
 
-##Project Overview
+## Project Overview
 
 This project leverages state-of-the-art natural language processing (NLP) techniques to analyze customer reviews from Amazon Fine Food Reviews. Using BERT and RoBERTa, the model extracts sentiment insights to understand customer satisfaction, identify trends, and make data-driven decisions. The system processes large-scale datasets in real-time and is deployed using AWS Lambda, GCP, BigQuery, and Spark for scalable and efficient processing.
 
@@ -90,26 +90,26 @@ Use Apache Spark for large-scale data processing. You can run the following comm
 
 
 
-###Technologies Used
-##BERT & ##RoBERTa for sentiment classification
-##AWS Lambda for real-time inference
-##GCP (Google Cloud Platform) for data storage and processing
-##BigQuery for managing large-scale datasets
-##Spark for distributed data processing
-##PostgreSQL (AWS RDS) for storing processed data
-##Python & ##Hugging Face Transformers for model implementation
-##Flask (if API integration is required)
+### Technologies Used
+## BERT & ## RoBERTa for sentiment classification
+## AWS Lambda for real-time inference
+## GCP (Google Cloud Platform) for data storage and processing
+## BigQuery for managing large-scale datasets
+## Spark for distributed data processing
+## PostgreSQL (AWS RDS) for storing processed data
+## Python & ## Hugging Face Transformers for model implementation
+## Flask (if API integration is required)
 
-###Contributing
+### Contributing
 Feel free to fork this repository, submit issues, or send pull requests. Contributions are welcome!
 
-Fork the project
-Create a new branch (git checkout -b feature-branch)
-Commit your changes (git commit -am 'Add new feature')
-Push to the branch (git push origin feature-branch)
-Create a new Pull Request
+1. Fork the project
+2. Create a new branch (git checkout -b feature-branch)
+3. Commit your changes (git commit -am 'Add new feature')
+4. Push to the branch (git push origin feature-branch)
+5. Create a new Pull Request
 
-###License
+### License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
