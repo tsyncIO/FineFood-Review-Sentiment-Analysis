@@ -1,0 +1,15 @@
+# Byte-compiled files
+__pycache__/
+
+# Environment variables
+.env
+
+# Data and model files
+data/processed_data/
+models/
+
+# Logs
+logs/
+
+# System files
+.DS_Store
