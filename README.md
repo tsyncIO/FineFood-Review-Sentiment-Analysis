@@ -91,14 +91,15 @@ Use Apache Spark for large-scale data processing. You can run the following comm
 
 
 ### Technologies Used
-## BERT & ## RoBERTa for sentiment classification
-## AWS Lambda for real-time inference
-## GCP (Google Cloud Platform) for data storage and processing
-## BigQuery for managing large-scale datasets
-## Spark for distributed data processing
-## PostgreSQL (AWS RDS) for storing processed data
-## Python & ## Hugging Face Transformers for model implementation
-## Flask (if API integration is required)
+#### BERT, RoBERTa 
+for sentiment classification
+#### AWS Lambda for real-time inference
+#### GCP (Google Cloud Platform) for data storage and processing
+#### BigQuery for managing large-scale datasets
+#### Spark for distributed data processing
+#### PostgreSQL (AWS RDS) for storing processed data
+#### Python & ## Hugging Face Transformers for model implementation
+#### Flask (if API integration is required)
 
 ### Contributing
 Feel free to fork this repository, submit issues, or send pull requests. Contributions are welcome!
